@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow: hidden;
+}
+.downLoadIcon{
+  background: #b0c4cc;
+  border-radius: 50%;
+  padding: 2px;
+  color: #000;
+  cursor: pointer;
+}
+
+.arrowIcon{
+  opacity: .4;
+}
